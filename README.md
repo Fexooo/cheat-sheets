@@ -16,6 +16,7 @@ Eine persönliche Ansammlung von "cheat sheets" geschrieben von mir selbst.
 
 ## cheat sheets
 
-| Topic | Last updated |
-| --- | --- |
-| [Markdown](markdown-cheat-sheet.md) | 10.11.2022
+| Topic                               | Last updated | Language |
+|-------------------------------------| --- | --- |
+| [Markdown](markdown-cheat-sheet.md) | 10.11.2022 | German |
+| [Git](git-cheat-sheet.md)           | 10.11.2022 | German |
